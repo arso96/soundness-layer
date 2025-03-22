@@ -1,5 +1,5 @@
 # Soundness CLI
-
+sudo apt update && sudo apt upgrade -y
 A command-line interface tool for interacting with Soundness Layer testnet.
 
 ## Quick Installation
